@@ -1,3 +1,5 @@
+console.log('some javascript')
+
 window.addEvent('domready', function() {
 	new Request.HTML({
 		url: '/gh/get/response.html/zalun/jsFiddleGithubDemo/tree/master/Demo/',
